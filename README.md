@@ -2,7 +2,7 @@
 
 Responsive friends picker override plugin for Elgg
 
-# picker-fixer
+# elgg-picker-fixer
 Makes the elgg friends picker responsive, and fixes other issues.
 
 ## Features ##
