@@ -9,3 +9,4 @@ Makes the elgg friends picker responsive, and fixes other issues.
 
 * Makes friends picker responsive (mobile friendly)
 * Stops anmation queue delay
+* Replaces table elements
