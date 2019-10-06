@@ -5,7 +5,7 @@ elgg friendsPicker plugin
 elgg friends picker fixes plugin
 * adapted from elgg(unknow author), adapted from Niall Doherty's Coda-Slider.
 
-Modified by: B.Pontius (ElementDigital)
+Modified by: ElementDigital 2019
 * Makes elgg friends picker responsive 
 * Added: $( window ).resize();
 * Added animation stop();

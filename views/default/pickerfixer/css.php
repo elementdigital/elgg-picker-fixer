@@ -112,13 +112,13 @@
     top: 8px;
     text-indent: -9000em;
 	background-image: url("<?= elgg_get_simplecache_url("friendspicker.png"); ?>");
-	background-repeat: no-repeat 
+	background-repeat: no-repeat; 
 	background-position: left top;
 	background-size: 57px 60px;
 }
 .friends-picker-navigation-l:hover, .friends-picker-navigation-r:hover{
 	background-image: url("<?= elgg_get_simplecache_url("friendspicker.png"); ?>");
-	background-repeat: no-repeat 
+	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: 57px 60px;
 }
