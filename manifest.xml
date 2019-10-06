@@ -9,16 +9,16 @@
 	<id>elgg-picker-fixer</id>
 	<version type="dev">0.1</version>
 
-	<blurb>Starts Fixing: (input/friendspicker.php line #6)"@warning Below is the ugliest code in Elgg. It needs to be rewritten or removed".</blurb>
+	<blurb>Starts Fixing: (input/friendspicker.php line #6)</blurb>
 
-	<author>bpontius</author>
+	<author>ElementDigital</author>
 	<website>http://elementdigital.com</website>
 	
 	<repository>https://github.com/elementdigital/elgg-picker-fixer</repository>
 	
 	<bugtracker>https://github.com/elementdigital/elgg-picker-fixer/issues</bugtracker>
 	
-	<copyright>(c) B.Pontius</copyright>
+	<copyright>(c) ElementDigital</copyright>
 	<license>GNU General Public License version 2</license>
 
 	<requires>
